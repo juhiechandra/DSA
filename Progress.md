@@ -9,3 +9,12 @@
 1. Deciding to do with GFG,mycodeschool and AV (kunal only for basics)
 2. Revising arrays notes + linear and binary search
 3. 2 questions on arrays 
+
+31-01-22
+1. Revised Basic from notes
+2. Did questions in flowchart format
+3. Submitted project for hackathon
+4. Joined some groups
+
+1-02-22
+1. 
