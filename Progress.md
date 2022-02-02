@@ -17,4 +17,5 @@
 4. Joined some groups
 
 1-02-22
-1. 
+1. Did 5 Binary Search problems
+2. Revised concepts
